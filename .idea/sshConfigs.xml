@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="ajjawi.com" id="a84cc719-ec58-448d-8a33-7500d7bb1359" keyPath="D:\Work\bakecake\agenled.ppk" port="22" nameFormat="DESCRIPTIVE" username="vnv8ccsqgeik" />
+    </configs>
+  </component>
+</project>

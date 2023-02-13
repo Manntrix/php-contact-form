@@ -1,0 +1,38 @@
+body{
+    background-color: #F9FAFB;
+}
+
+p{
+    margin: unset;
+}
+
+#seedform{
+    box-shadow: 0 20px 25px -5px rgb(0 0 0 / 10%), 0 10px 10px -5px rgb(0 0 0 / 4%);
+    padding: 25px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.topbox{
+    background: #000;
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+}
+.nextbox{
+    text-align: center;
+    padding: 20px 0;
+}
+.anotherbox, .passport, .details, .addressbox, .productionbox, .otherdoc, .declaration{
+    background: #000;
+    text-align: left;
+    padding: 10px;
+    color: #fff;
+    width: 100%;
+}
+#applicant{
+    padding: 20px 0;
+}
+.renewalhideapplicant, .newhideapplicant{
+    display: none;
+}

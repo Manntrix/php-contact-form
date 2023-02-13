@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="76a5c180-5aef-4e5d-ba43-4e51acb738cb" name="ajjawi" url="http://localhost">
+        <fileTransfer rootFolder="/home/vnv8ccsqgeik/public_html" accessType="SFTP" host="ajjawi.com" port="22" sshConfigId="a84cc719-ec58-448d-8a33-7500d7bb1359" sshConfig="vnv8ccsqgeik@ajjawi.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

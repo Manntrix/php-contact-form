@@ -1,0 +1,18 @@
+{
+    "name": "form",
+    "authors": [
+        {
+            "name": "Manish Mandal",
+            "email": "manish.mandal21@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bakecake\\" : "vendor/"
+        }
+    },
+    "require": {
+
+        "vlucas/phpdotenv": "^5.2"
+    }
+}
